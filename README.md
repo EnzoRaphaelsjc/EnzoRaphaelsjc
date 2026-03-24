@@ -1,11 +1,11 @@
 # Olá, eu sou o Enzo! 👋 
 
-Estudante de TI apaixonada por transformar dados em insights e explorar novas dimensões digitais. Atualmente, foco meus estudos em **Python**, **Data Science** e tecnologias imersivas.
+Estudante de TI apaixonado por transformar dados em insights e explorar novas dimensões digitais. Atualmente, foco meus estudos em **Python**, **Data Science** e tecnologias imersivas.
 
 ---
 
 ### 🚀 Sobre Mim
-- 🎓 **Estudante Técnica de TI**: Unindo lógica de programação com rigor metodológico.
+- 🎓 **Estudante Técnico de TI**: Unindo lógica de programação com rigor metodológico.
 - 🐍 **Data Enthusiast**: Experiência prática em análise de dados (IMDb Dataset) e Web Scraping.
 - 🤖 **AI & ML**: Mergulhando no ecossistema **TensorFlow** para criar modelos inteligentes.
 - 🕶️ **3D & VR**: Criando experiências interativas com **A-Frame** e **VRML**.
