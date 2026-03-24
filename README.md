@@ -1,4 +1,4 @@
-# Olá, eu sou a Lua! 👋 
+# Olá, eu sou o Enzo! 👋 
 
 Estudante de TI apaixonada por transformar dados em insights e explorar novas dimensões digitais. Atualmente, foco meus estudos em **Python**, **Data Science** e tecnologias imersivas.
 
@@ -36,4 +36,4 @@ Estudante de TI apaixonada por transformar dados em insights e explorar novas di
 ---
 
 ### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/enzo-raphael)
