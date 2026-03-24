@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou a Lua! 👋 
 
-<!--
-**EnzoRaphaelsjc/EnzoRaphaelsjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de TI apaixonada por transformar dados em insights e explorar novas dimensões digitais. Atualmente, foco meus estudos em **Python**, **Data Science** e tecnologias imersivas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim
+- 🎓 **Estudante Técnica de TI**: Unindo lógica de programação com rigor metodológico.
+- 🐍 **Data Enthusiast**: Experiência prática em análise de dados (IMDb Dataset) e Web Scraping.
+- 🤖 **AI & ML**: Mergulhando no ecossistema **TensorFlow** para criar modelos inteligentes.
+- 🕶️ **3D & VR**: Criando experiências interativas com **A-Frame** e **VRML**.
+- 📖 **Metodologia**: Aplicando boas práticas científicas em projetos de tecnologia.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+#### Linguagens & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![A-Frame](https://img.shields.io/badge/A--Frame-EF2D5E?style=for-the-badge&logo=aframe&logoColor=white)
+
+#### Ferramentas de Desenvolvimento
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Estatísticas do GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_AQUI&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
+
+### 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN)
